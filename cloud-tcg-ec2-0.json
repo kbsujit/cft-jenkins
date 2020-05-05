@@ -1,6 +1,6 @@
 {
 "Resources": {
-        "EC2CFT050520": {
+        "jenkins050520": {
             "Type": "AWS::EC2::Instance",
             "Properties": {
 			               "ImageId" : "ami-0ff8a91507f77f867",
