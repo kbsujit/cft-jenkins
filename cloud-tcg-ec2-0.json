@@ -1,6 +1,6 @@
 {
 "Resources": {
-        "KBSUJITCF050420": {
+        "KBSUJITCF050420-2": {
             "Type": "AWS::EC2::Instance",
             "Properties": {
 			               "ImageId" : "ami-08b7856ad23a0fbad",
