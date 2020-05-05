@@ -1,13 +1,14 @@
 {
 "Resources": {
-        "KBSUJITCF050420-2": {
+        "EC2CFT050520": {
             "Type": "AWS::EC2::Instance",
             "Properties": {
-			               "ImageId" : "ami-0323c3dd2da7fb37d",
+			               "ImageId" : "ami-0ff8a91507f77f867",
 						   "InstanceType" : "t2.micro",
-						   "SecurityGroupIds" : [ "sg-035ee8298014e0bca" ],
+						   "SecurityGroupIds" : [ "sg-083016923001b7435" ],
 						   "SubnetId" : "subnet-5f23d27e" 
 			}
 			}
 }
 }
+
